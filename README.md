@@ -27,3 +27,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değişti
 # License
 
 [MIT](https://github.com/khalidalshareef/kodluyoruzilkrepo/blob/main/LICENSE)
+
+<img width="647" alt="proje resmi 2" src="https://user-images.githubusercontent.com/98905290/199354922-2deff1d2-1e1c-4745-9148-9130de235aad.png">
+
