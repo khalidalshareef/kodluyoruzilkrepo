@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değişti
 
 # License
 
-MIT
+(MIT)
